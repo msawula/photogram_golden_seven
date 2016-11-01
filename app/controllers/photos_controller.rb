@@ -25,4 +25,8 @@ p.save
 redirect_to("http://localhost:3000/photos")
 end
 
+def destroy
+
+end
+
 end
